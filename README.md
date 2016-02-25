@@ -20,7 +20,7 @@ Please, use [Composer](https://getcomposer.org) and add `webgriffe/module-extend
 To Do
 -----
 
-* Add more specific show/hide options for every single toolbar component
+* Add more specific show/hide options for every single toolbar component.
 
 Credits
 -------
