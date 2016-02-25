@@ -1,6 +1,6 @@
 {
     "name": "webgriffe/module-extended-toolbar",
-    "description": "",
+    "description": "An extended version of Magento 2 Toolbar",
     "type": "magento2-module",
     "license": "MIT",
     "authors": [
